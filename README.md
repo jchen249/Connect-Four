@@ -9,5 +9,5 @@ To Note: This project includes special sound effects using, winsound a module on
 
   To avoid errors, comment out line 3,85,90 from play.py and save before running.
 
-Use the Connect Four User Guide to additional guidance.
+Use the Connect Four User Guide for additional guidance.
 
