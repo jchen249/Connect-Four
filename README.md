@@ -1,5 +1,6 @@
 # Connect-Four
 Co-Programmer: Aleck Lu
+----------------------------------------------------------------------------------------------------------------------
 Connect Four coded in Python using tkinder
 
 Download play.py(GUI), ConnectFour.py and additional sound files, dropsounds.wav and gamerwinner.wav
